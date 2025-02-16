@@ -1,4 +1,4 @@
-package helloworld
+package main
 
 const (
 	spanish = "Spanish"
