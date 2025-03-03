@@ -45,3 +45,5 @@ func BenchmarkCheckWebsites(b *testing.B) {
 		CheckWebsites(slowStubWebsiteChecker, urls)
 	}
 }
+
+//Test
